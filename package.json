@@ -33,7 +33,7 @@
     "react": "16.11",
     "react-addons-shallow-compare": "^15.6.2",
     "react-dates": "12.7.0",
-    "react-dom": "16.11",
+    "react-dom": "16.0",
     "react-modal": "2.2.2",
     "react-redux": "^7.2.1",
     "react-router-dom": "4.2.2",
