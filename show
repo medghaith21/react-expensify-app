@@ -1,0 +1,14 @@
+2020-07-30T17:18:29.676755+00:00 app[api]: Release v1 created by user talbimouhamed24@gmail.com
+2020-07-30T17:18:29.676755+00:00 app[api]: Initial release by user talbimouhamed24@gmail.com
+2020-07-30T17:18:29.787217+00:00 app[api]: Enable Logplex by user talbimouhamed24@gmail.com
+2020-07-30T17:18:29.787217+00:00 app[api]: Release v2 created by user talbimouhamed24@gmail.com
+2020-07-30T17:33:24.000000+00:00 app[api]: Build started by user talbimouhamed24@gmail.com
+2020-07-30T17:33:27.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/a04290bc-178b-4d07-a87b-849db2b15bc1/activity/builds/fda54109-f974-433b-a53f-4ddb48552425
+2020-07-30T21:40:43.000000+00:00 app[api]: Build started by user talbimouhamed24@gmail.com
+2020-07-30T21:40:45.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/a04290bc-178b-4d07-a87b-849db2b15bc1/activity/builds/e8fe0cea-dad3-4413-a1b2-5362170c2c42
+2020-07-30T21:50:47.000000+00:00 app[api]: Build started by user talbimouhamed24@gmail.com
+2020-07-30T21:50:48.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/a04290bc-178b-4d07-a87b-849db2b15bc1/activity/builds/e4af5cb9-ce47-42e4-bd51-eae767f3e5dd
+2020-07-30T21:52:47.000000+00:00 app[api]: Build started by user talbimouhamed24@gmail.com
+2020-07-30T21:52:49.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/a04290bc-178b-4d07-a87b-849db2b15bc1/activity/builds/1e55795a-8e68-4bf5-86ea-1a83a39c04e3
+2020-07-30T21:57:04.000000+00:00 app[api]: Build started by user talbimouhamed24@gmail.com
+2020-07-30T21:57:06.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/a04290bc-178b-4d07-a87b-849db2b15bc1/activity/builds/f2fede47-c99a-4362-b6d9-e7131cfaf8c8
